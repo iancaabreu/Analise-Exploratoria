@@ -1,6 +1,11 @@
-Imersão Alura 
-# Analise_Excel
- Link para acessar a analise de dados feita no Google sheets
+# Imersão Python: Do Excel à Análise de Dados
 
-[link] (https://docs.google.com/spreadsheets/d/1-WTi5fCHBwr6vi18HkQFoEPxfOseq26cV6_Xvaxa_pM/edit?usp=sharing)
+## Análise Exploratória com Google Sheets
+
+- Tabela de Ações
+  
+
+ 
+
+[Clique no Link para acessar](https://docs.google.com/spreadsheets/d/1-WTi5fCHBwr6vi18HkQFoEPxfOseq26cV6_Xvaxa_pM/edit?usp=sharing)
 
