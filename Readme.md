@@ -2,7 +2,6 @@
 
 ## Análise Exploratória no Google Sheets
 
-Nesta aula :
 - Análise das bases de variações na B3;
 - Foi feito análises exploratórias pelo Google Sheets com fórmulas;
 - Foi usado Chat GPT;
