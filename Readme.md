@@ -4,10 +4,8 @@
 
 - Tabela de Ações
 
-  ![Imersão Python - Tabela de ações - Planilhas Google](https://github.com/iancaabreu/Analise_Excel/assets/102169504/3fb09d0e-eb9d-44af-83c4-f9c5833e467b)
+[Imersão Python - Tabela de ações - Planilhas Google.webm](https://github.com/iancaabreu/Analise-Exploratoria/assets/102169504/18ad0b42-708c-4c29-bdef-98ab218d9e09)
 
-
- 
 
 [Clique no Link para acessar](https://docs.google.com/spreadsheets/d/1-WTi5fCHBwr6vi18HkQFoEPxfOseq26cV6_Xvaxa_pM/edit?usp=sharing)
 
