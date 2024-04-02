@@ -12,9 +12,15 @@
 [Imersão Python - Tabela de ações - Planilhas Google.webm](https://github.com/iancaabreu/Analise-Exploratoria/assets/102169504/18ad0b42-708c-4c29-bdef-98ab218d9e09)
 
 
+ # Manipulação de Dados com bibliotecas Python
+ 
+- Manipulação de dados com Pandas;
+- Transformação da planilha de ações com funções do Pandas;
 
+ - [Clique no Link para acessar](https://docs.google.com/spreadsheets/d/e/2PACX-1vS3RTXTAkSio_g_qVwaMtmhk7YV3zzFQsHRI_lF_nlHa_O5TmSMkEj6hfVlOqKqOycp1fBomKZSMwq1/pubhtml)
+ 
 <p align="center">
   <img src="https://github.com/iancaabreu/Imersao_Alura/assets/102169504/c1bbbff9-06a1-46d9-a3b3-c6ace5abddc9" alt="Gráfico 1" width="500" />
-  <img src="https://github.com/iancaabreu/Imersao_Alura/assets/102169504/ec434d1c-4553-456d-a691-fbfb573b82fe" alt="Gráfico 2" width="495" />
+  <img src="https://github.com/iancaabreu/Imersao_Alura/assets/102169504/ec434d1c-4553-456d-a691-fbfb573b82fe" alt="Gráfico 2" width="498" />
 </p>
 
