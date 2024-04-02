@@ -13,4 +13,12 @@
 
 
 
+<p align="center">
+<img src= "![Captura de tela 2024-04-02 113258](https://github.com/iancaabreu/Imersao_Alura/assets/102169504/bed96cc3-220b-4cde-86e2-27df7dc55dc3)" width="400" />
+<img src = "![Captura de tela 2024-04-02 113335](https://github.com/iancaabreu/Imersao_Alura/assets/102169504/4156e75e-17c4-489f-8b97-929de98ce18c)" width="400" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/iancaabreu/Imersao_Alura/assets/102169504/bed96cc3-220b-4cde-86e2-27df7dc55dc3" width="400" />
+  <img src="https://github.com/iancaabreu/Imersao_Alura/assets/102169504/4156e75e-17c4-489f-8b97-929de98ce18c" width="400" />
+</p>
